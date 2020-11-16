@@ -22,3 +22,4 @@ else:
 #b_ends = all second elements in b
 
 #for 
+#Logic
